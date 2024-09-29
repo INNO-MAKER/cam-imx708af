@@ -4,7 +4,7 @@
  
 
 ##  Specification
-- Back-illuminated, stacked CMOS 12-megapixel Sony IMX708 image sensor
+- Back-illuminated, stacked CMOS 12-megapixel IMX708 image sensor
 - High signal-to-noise ratio (SNR)
 - Built-in 2D Dynamic Defect Pixel Correction (DPC)
 - Phase Detection Autofocus (PDAF) for rapid autofocus
@@ -23,6 +23,7 @@
 - IR cut filter: Integrated in standard variants; not present in NoIR variants
 - Dimensions: 32 × 32 × 11.5mm (12.4mm height for Wide variants)
 - Ribbon cable length: 150mm
+  
 -  Cable connector: 15 × 1mm FPC,22 x 0.5mm FPC
   
 
