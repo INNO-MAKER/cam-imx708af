@@ -21,9 +21,10 @@
 - Common video modes: 1080p50, 720p100, 480p120
 - Output: RAW10
 - IR cut filter: Integrated in standard variants; not present in NoIR variants
-- Dimensions: 25 × 24 × 11.5mm (12.4mm height for Wide variants)
-- Ribbon cable length: 200mm
--  Cable connector: 15 × 1mm FPC
+- Dimensions: 32 × 32 × 11.5mm (12.4mm height for Wide variants)
+- Ribbon cable length: 150mm
+-  Cable connector: 15 × 1mm FPC,22 x 0.5mm FPC
+  
 
 ##  Quick Start Guide
 - Step1, Add dtoverlay=imx708 to last line of config.txt
