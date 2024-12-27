@@ -1,7 +1,10 @@
 # CAM-IMX708AF
+
 ## Description
 - InnoMaker IMX708 Auto focus Camera Module Compatible with raspberry pi camera V
-- 
+  
+![708AF](https://github.com/INNO-MAKER/cam-imx708af/blob/main/images/708af.jpg "708AF")
+
 # Description
 - Camera Module 3 can be used to take full HD video as well as stills photographs, and features an HDR mode up to 3 megapixels. It carries IR cut filter. Its operation is fully supported by the libcamera library, including Camera Module 3’s rapid autofocus feature: this makes it easy for beginners to use, while offering plenty for advanced users. Camera Module 3 is compatible with all Raspberry Pi computers.
 - Camera Module Third Generation: Back-illuminated and stacked CMOS 12-megapixel image sensor (IMX708) with HDR for up to 3 megapixel output
