@@ -20,7 +20,7 @@
     - sudo nano /boot/firmware/config.txt
 
 - Step2, Add below content to the last line
-  - dtoverlay=imx708  #for pi5+latest os, should add csi channel. Like dtoverlay=imx708,cam0 or dtoverlay=imx708,cam1
+  - dtoverlay=imx708                                       # for pi5+latest os, should add csi channel. Like dtoverlay=imx708,cam0 or dtoverlay=imx708,cam1
   - Change camera_auto_detect=1 to camera_auto_detect=0
 
 - Step3, Reboot and use below command to preview
